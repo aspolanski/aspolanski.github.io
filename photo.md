@@ -1,7 +1,7 @@
 ---
 layout: default
 Title: Photography
-permalink: /photography/
+permalink: https://aspolanski.github.io/photography
 ---
 
 <h1>Some stuff</h1>
