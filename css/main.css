@@ -19,6 +19,10 @@ nav  li  a {
     text-decroation: none;
     color: #000000;
 }
+
+nav li a:hover {
+    color: #c1c1c1;
+}
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
