@@ -10,12 +10,12 @@ nav {
     padding: 20px 0 20px 0;
 }
 
-nav > li {
+nav  li {
     display: inline-block;
     padding: 25px 0 25px 0;
 }
 
-nav > li > a {
+nav  li  a {
     text-decroation: none;
     color: #000000;
 }
