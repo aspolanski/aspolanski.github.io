@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: "https://aspolanski.github.io/about"
+permalink: https://aspolanski.github.io/about
 ---
 <div class="blurb">
 	<h1>Hello!</h1>
