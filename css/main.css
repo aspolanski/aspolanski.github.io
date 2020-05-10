@@ -23,6 +23,14 @@ nav  li  a {
 nav li a:hover {
     color: #c1c1c1;
 }
+
+logo {
+    color: #000000;
+    float: left;
+    padding-left: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
