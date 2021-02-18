@@ -1291,7 +1291,7 @@ button {
 		}
 
 	#header .content {
-		border-style: none;
+		border-style: solid;
 		border-color: #ffffff;
 		border-top-width: 1px;
 		border-bottom-width: 1px;
@@ -1331,7 +1331,7 @@ button {
 		margin-bottom: 0;
 		list-style: none;
 		padding-left: 0;
-		border: solid 1px #ffffff;
+		border: none 1px #ffffff;
 		border-radius: 4px;
 	}
 
