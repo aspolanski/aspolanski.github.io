@@ -1291,7 +1291,7 @@ button {
 		}
 
 	#header .content {
-		border-style: groove;
+		border-style: solid;
 		border-color: #ffffff;
 		border-top-width: 1px;
 		border-bottom-width: 1px;
