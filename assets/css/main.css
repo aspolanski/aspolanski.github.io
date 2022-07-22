@@ -636,11 +636,11 @@ input[type="radio"] + label:before {
 		display: none;
 	}
 
-img_b {
+imgb {
     transition:transform 0.25s ease;
 }
 
-img_b:hover {
+imgb:hover {
     -webkit-transform:scale(1.5);
     transform:scale(1.5);
 }
