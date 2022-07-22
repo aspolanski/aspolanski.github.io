@@ -636,6 +636,15 @@ input[type="radio"] + label:before {
 		display: none;
 	}
 
+img_b {
+    transition:transform 0.25s ease;
+}
+
+img_b:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 /* This changes what an image looks like */
 .image {
 	border-radius: 4px;
