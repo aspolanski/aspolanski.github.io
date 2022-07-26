@@ -3,8 +3,8 @@
 #Details for columns and uncertainties 
 #Name: SIMBAD resolvable name
 #Teff: Effective temperature, K, +/- 77
-#logg: Log surface gravity, [cm/s^-2], +/- 0.09
-#vsini: Projected rotational velocity, km/s^-1, +/- 0.1
+#logg: Log surface gravity, [cm/s^2], +/- 0.09
+#vsini: Projected rotational velocity, km/s^1, +/- 0.1
 #[C/H]: Abundance of C relative to H, dex, +/-0.05
 #[N/H]: Abundance of N relative to H, dex, +/-0.08
 #[O/H]: Abundance of O relative to H, dex, +/-0.07
