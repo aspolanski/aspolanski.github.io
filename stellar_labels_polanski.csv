@@ -3,8 +3,8 @@
 #Details for columns and uncertainties 
 #Name: SIMBAD resolvable name
 #Teff: Effective temperature, K, +/- 77
-#logg: Log surface gravity, [cm/s^2], +/- 0.09
-#vsini: Projected rotational velocity, km/s^2, +/- 0.1
+#logg: Log surface gravity, [cm/s^-2], +/- 0.09
+#vsini: Projected rotational velocity, km/s^-1, +/- 0.1
 #[C/H]: Abundance of C relative to H, dex, +/-0.05
 #[N/H]: Abundance of N relative to H, dex, +/-0.08
 #[O/H]: Abundance of O relative to H, dex, +/-0.07
@@ -25,7 +25,7 @@
 #Mg/Si: Magnesium to silicon abundance ratio
 #Mg/Si err: Mg/Si 1 sigma uncertainty
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Name,Teff,logg,vsini,[C/H],[N/H],[O/H],[Na/H],[Mg/H],[Al/H],[Si/H],[Ca/H],[Ti/H],[V/H],[Cr/H],[Mn/H],[Fe/H],[Ni/H],[Y/H],C/O,Mg/Si,SNR,C/O err,Mg/Si err
+Name,Teff,logg,vsini,[C/H],[N/H],[O/H],[Na/H],[Mg/H],[Al/H],[Si/H],[Ca/H],[Ti/H],[V/H],[Cr/H],[Mn/H],[Fe/H],[Ni/H],[Y/H],C/O,Mg/Si,SNR,C/O_err,Mg/Si_err
 HD 149026,5980,4.1,5.4,0.17,0.46,0.23,0.4,0.18,0.21,0.25,0.32,0.23,0.11,0.26,0.25,0.27,0.27,0.42,0.48 ,0.89 ,304,0.1,0.1
 HD 15337,5131,4.43,0.9,0.06,0.08,0.06,0.15,0.13,0.15,0.12,0.1,0.11,0.11,0.11,0.14,0.12,0.13,-0.05,0.56 ,1.06 ,220,0.11,0.12
 HD 182488,5365,4.42,2.0,0.1,0.21,0.16,0.15,0.12,0.15,0.09,0.13,0.12,0.13,0.13,0.2,0.14,0.14,0.07,0.48 ,1.11 ,265,0.1,0.13
